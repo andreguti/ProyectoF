@@ -1,0 +1,20 @@
+C:\Users\Bel Kiel\Documents\SharpDevelop Projects\Libreria\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bel Kiel\Documents\SharpDevelop Projects\Libreria\obj\Debug\Libreria.Buscar.resources
+C:\Users\Bel Kiel\Documents\SharpDevelop Projects\Libreria\obj\Debug\Libreria.MainForm.resources
+C:\Users\Bel Kiel\Documents\SharpDevelop Projects\Libreria\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Bel Kiel\Documents\SharpDevelop Projects\Libreria\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Bel Kiel\Documents\SharpDevelop Projects\Libreria\bin\Debug\Libreria.exe
+C:\Users\Bel Kiel\Documents\SharpDevelop Projects\Libreria\bin\Debug\Libreria.pdb
+C:\Users\Bel Kiel\Documents\SharpDevelop Projects\Libreria\bin\Debug\MySql.Data.dll
+C:\Users\Bel Kiel\Documents\SharpDevelop Projects\Libreria\obj\Debug\Libreria.exe
+C:\Users\Bel Kiel\Documents\SharpDevelop Projects\Libreria\obj\Debug\Libreria.pdb
+C:\Users\user360\Documents\SharpDevelop Projects\Libreria\bin\Debug\Libreria.exe
+C:\Users\user360\Documents\SharpDevelop Projects\Libreria\bin\Debug\Libreria.pdb
+C:\Users\user360\Documents\SharpDevelop Projects\Libreria\bin\Debug\MySql.Data.dll
+C:\Users\user360\Documents\SharpDevelop Projects\Libreria\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user360\Documents\SharpDevelop Projects\Libreria\obj\Debug\Libreria.Buscar.resources
+C:\Users\user360\Documents\SharpDevelop Projects\Libreria\obj\Debug\Libreria.MainForm.resources
+C:\Users\user360\Documents\SharpDevelop Projects\Libreria\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\user360\Documents\SharpDevelop Projects\Libreria\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\user360\Documents\SharpDevelop Projects\Libreria\obj\Debug\Libreria.exe
+C:\Users\user360\Documents\SharpDevelop Projects\Libreria\obj\Debug\Libreria.pdb
